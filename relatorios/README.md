@@ -1,3 +1,3 @@
 # Clothes4Happiness
 
-Simulação de sistema de informação para a empresa fictícia Clothes4Happiness
+Responsável pelos relatórios de cada setor do Sistema
